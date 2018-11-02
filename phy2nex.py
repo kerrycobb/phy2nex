@@ -1,5 +1,9 @@
 #! /usr/bin/env python
 
+'''
+Incomplete python script for performance comparison
+'''
+
 import sys
 
 def stacks_phylip_to_nexus(in_path, out_path):
